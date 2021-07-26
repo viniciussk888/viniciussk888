@@ -2,8 +2,8 @@
 
 I am Vinicius Martins. I'm currently working developing web and mobile apps with React Native & React JS framework. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-victoralmeidadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-martins-115936178/)](https://www.linkedin.com/in/vinicius-martins-115936178/)
-[![Gmail Badge](https://img.shields.io/badge/-victooralmeida1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.cross07@gmail.com)](mailto:vinicius.cross07@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-viniciussk888-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-martins-115936178/)](https://www.linkedin.com/in/vinicius-martins-115936178/)
+[![Gmail Badge](https://img.shields.io/badge/-vinicius.cross07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.cross07@gmail.com)](mailto:vinicius.cross07@gmail.com)
 
 ## ⚡ Technologies
 
