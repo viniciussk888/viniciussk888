@@ -40,11 +40,11 @@ I am Vinicius Martins. I'm currently working developing web and mobile apps with
 - I worked on the application's insurance functionality for the company BrasilSeg.
 - Direct contribution to Banco do Brasil projects. I was also able to participate in some documentation.
 
-### [![NSC SISTEMAS](https://img.shields.io/badge/PETRONAS-0aa19c?style=flat-square&link=https://www.nscsistemas.com.br/)](https://www.nscsistemas.com.br/)
+### [![NSC SISTEMAS](https://img.shields.io/badge/NSCSISTEMAS-0aa19c?style=flat-square&link=https://www.nscsistemas.com.br/)](https://www.nscsistemas.com.br/)
 
 - Working with the development of a desktop ERP focused on issuing tax documents such as NFe and NFCe, using delphi language and firebird database.
 
-### [![FREELANCER](https://img.shields.io/badge/SMILES-FF5A00?style=flat-square&link=https://viniciussk888.github.io/)](https://viniciussk888.github.io/)
+### [![FREELANCER](https://img.shields.io/badge/FREELANCER-FF5A00?style=flat-square&link=https://viniciussk888.github.io/)](https://viniciussk888.github.io/)
 
 - building web systems and applications using React JS, React Native and Node.
 
@@ -52,7 +52,7 @@ and more...
 
 #
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=victoralmeidadev&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoralmeidadev&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=viniciussk888&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussk888&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=victoralmeidadev.victoralmeidadev)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=viniciussk888.viniciussk888)
