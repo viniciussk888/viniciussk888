@@ -45,7 +45,7 @@ I am Vinicius Martins. I'm currently working developing web and mobile apps with
 
 ### [![FREELANCER](https://img.shields.io/badge/FREELANCER-FF5A00?style=flat-square&link=https://viniciussk888.github.io/)](https://viniciussk888.github.io/)
 
-- building web systems and applications using React JS, React Native and Node.
+- Building web systems and applications using React JS, React Native and Node.
 
 and more...
 
