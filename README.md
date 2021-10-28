@@ -34,6 +34,11 @@ I am Vinicius Martins. I'm currently working developing web and mobile apps with
 
 ## 💻 I've worked on company projects:
 
+### [![FRAMEWORK](https://img.shields.io/badge/FRAMEWORK-9400d3?style=flat-square&link=https://www.frameworkdigital.com.br/))](https://www.frameworkdigital.com.br/)
+
+- Working on several projects within the company's customers.
+- Direct contribution to Digital Bank Lendico projects.
+
 ### [![BANCO DO BRASIL](https://img.shields.io/badge/BANCO%20DO%20BRASIL-f8d116?style=flat-square&link=https://www.bb.com.br)](https://www.bb.com.br)
 
 - I worked on the application's insurance functionality for the company BrasilSeg.
