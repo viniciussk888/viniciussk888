@@ -37,20 +37,20 @@ I am Vinicius Martins. I'm currently working developing web and mobile apps with
 ### [![FRAMEWORK](https://img.shields.io/badge/FRAMEWORK-9400d3?style=flat-square&link=https://www.frameworkdigital.com.br/)](https://www.frameworkdigital.com.br/)
 
 - Working on several projects within the company's customers.
-- Direct contribution to Digital Bank Lendico projects.
+- Direct contribution to Bank Lendico projects using React Native.
 
 ### [![BANCO DO BRASIL](https://img.shields.io/badge/BANCO%20DO%20BRASIL-f8d116?style=flat-square&link=https://www.bb.com.br)](https://www.bb.com.br)
 
 - I worked on the application's insurance functionality for the company BrasilSeg.
-- Direct contribution to Banco do Brasil projects. I was also able to participate in some documentation.
+- Direct contribution to Banco do Brasil projects using React Native. I was also able to participate in some documentation.
 
 ### [![NSC SISTEMAS](https://img.shields.io/badge/NSCSISTEMAS-0aa19c?style=flat-square&link=https://www.nscsistemas.com.br/)](https://www.nscsistemas.com.br/)
 
 - Working with the development of a desktop ERP focused on issuing tax documents such as NFe and NFCe, using delphi language and firebird database.
 
-### [![FREELANCER](https://img.shields.io/badge/FREELANCER-FF5A00?style=flat-square&link=https://viniciussk888.github.io/)](https://viniciussk888.github.io/)
+### [![FOODJA](https://img.shields.io/badge/FOODJA-FF5A00?style=flat-square&link=https://play.google.com/store/apps/details?id=br.com.foodja.app&hl=pt_BR&gl=US)](https://play.google.com/store/apps/details?id=br.com.foodja.app&hl=pt_BR&gl=US)
 
-- Building web systems and applications using React JS, React Native and Node.
+- Working as a freelancer in Manaus-AM FOODJÁ delivery application, using React Native.
 
 and more...
 
