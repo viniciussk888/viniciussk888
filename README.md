@@ -46,7 +46,7 @@ I am Vinicius Martins. I'm currently working developing web and mobile apps with
 
 ### [![NSC SISTEMAS](https://img.shields.io/badge/NSCSISTEMAS-0aa19c?style=flat-square&link=https://www.nscsistemas.com.br/)](https://www.nscsistemas.com.br/)
 
-- Working with the development of a desktop ERP focused on issuing tax documents such as NFe and NFCe, using delphi language and firebird database.
+- Working with the development of a desktop ERP focused on issuing tax documents such as NFe and NFCe, using Delphi language and Firebird Database.
 
 ### [![FOODJA](https://img.shields.io/badge/FOODJA-FF5A00?style=flat-square&link=https://play.google.com/store/apps/details?id=br.com.foodja.app&hl=pt_BR&gl=US)](https://play.google.com/store/apps/details?id=br.com.foodja.app&hl=pt_BR&gl=US)
 
