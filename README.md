@@ -48,6 +48,18 @@ I'm a fullstack software developer mainly coding in JavaScript and TypeScript. C
       </a>
       <br>HTML5
     </td>
+    <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="ReactJS"/>
+      </a>
+      <br>ReactJS
+    </td>
+   <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React Native"/>
+      </a>
+      <br>React Native
+    </td>
    <td align="center" width="96">
       <a>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
