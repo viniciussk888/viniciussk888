@@ -1,62 +1,123 @@
-## Hi there! <img src="https://raw.githubusercontent.com/victoralmeidadev/victoralmeidadev/master/wave.gif" width="30px">
+<h2 align="center">Hello! I'm Vinicius Martins 👋</h2>
+<p align="center">
+I'm a fullstack software developer mainly coding in JavaScript and TypeScript. Currently learning about Serverless, DevOps and Cloud Computing. I love exploring new technologies and combining them to solve real-life problems. Furthermore, I learn quickly and adapt easily.
+</p>
 
-I am Vinicius Martins. I'm currently working developing web and mobile apps with React Native & React JS framework. Find out more about me & feel free to connect with me here:
+<p align="center"> When I'm not coding, you can find me playing video games or having fun with my daughters. </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-viniciussk888-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-martins-115936178/)](https://www.linkedin.com/in/vinicius-martins-115936178/)
-[![Gmail Badge](https://img.shields.io/badge/-vinicius.cross07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.cross07@gmail.com)](mailto:vinicius.cross07@gmail.com)
+## _I'm ..._
+<a href="#ryanjorgeac-title">
+ <img src="https://github-readme-stats-viniciussk888.vercel.app/api?username=viniciussk888&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Vinicius Martins Github Stats" align="right"/>
+</a>
 
-## ⚡ Technologies
+- [Information Systems](https://unibalsas.edu.br/sistemas-de-informacao/) Student at [**Unibalsas**](https://unibalsas.edu.br/)
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+- 28 years old
 
-#
+- From Brazil
+ 
+>⚡ **Fun Fact: I was once a skateboarder**
 
-## 🆙 Levelling...
 
-![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 
-#
+## _Favorite Technologies_
+>Tools, languages and other things that I like and am confortable to work with
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+      </a>
+      <br>TypeScript
+    </td>
+     <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" width="48" height="48" alt="Node"/>
+      </a>
+      <br>Node
+    </td>
+    <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5"/>
+      </a>
+      <br>HTML5
+    </td>
+   <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+      </a>
+      <br>Docker
+    </td>
+   <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="48" alt="Ubuntu"/>
+      </a>
+      <br>Ubuntu
+    </td>
+   <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+      </a>
+      <br>PostgreSQL
+    </td>
+       <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MONGODB"/>
+      </a>
+      <br>MongoDB
+    </td>
+   <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+      </a>
+      <br>Git
+    </td>
+  </tr>
+</table>
 
-## 💻 I've worked on company projects:
+## _New Technologies_
+>Tools, languages and other things that I am currently learning
+<table>
+  <tr>
+   <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="Serveless"/>
+      </a>
+      <br>Serveless
+    </td>
+   <td align="center" width="96">
+      <a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS"/>
+      </a>
+      <br>AWS
+    </td>
+  </tr>
+</table>
 
-### [![FRAMEWORK](https://img.shields.io/badge/FRAMEWORK-9400d3?style=flat-square&link=https://www.frameworkdigital.com.br/)](https://www.frameworkdigital.com.br/)
+### Coding Activity
+<!--START_SECTION:waka-->
 
-- Working on several projects within the company's customers.
-- Direct contribution to Bank Lendico projects using React Native.
+```txt
+JavaScript        1 hr 49 mins    ████████████▓░░░░░░░░░░░░   50.28 %
+TypeScript        1 hr 24 mins    █████████▓░░░░░░░░░░░░░░░   38.96 %
+JSON              11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+```
 
-### [![BANCO DO BRASIL](https://img.shields.io/badge/BANCO%20DO%20BRASIL-f8d116?style=flat-square&link=https://www.bb.com.br)](https://www.bb.com.br)
+<!--END_SECTION:waka-->
 
-- I worked on the application's insurance functionality for the company BrasilSeg.
-- Direct contribution to Banco do Brasil projects using React Native. I was also able to participate in some documentation.
 
-### [![NSC SISTEMAS](https://img.shields.io/badge/NSCSISTEMAS-0aa19c?style=flat-square&link=https://www.nscsistemas.com.br/)](https://www.nscsistemas.com.br/)
+### Where you can find me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/vinicius-martins-115936178)
 
-- Working with the development of a desktop ERP focused on issuing tax documents such as NFe and NFCe, using Delphi language and Firebird Database.
 
-### [![FOODJA](https://img.shields.io/badge/FOODJA-FF5A00?style=flat-square&link=https://play.google.com/store/apps/details?id=br.com.foodja.app&hl=pt_BR&gl=US)](https://play.google.com/store/apps/details?id=br.com.foodja.app&hl=pt_BR&gl=US)
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniciussk888}/count.svg" /></p> 
+<br></div>
 
-- Working as a freelancer in Manaus-AM FOODJÁ delivery application, using React Native.
-
-and more...
-
-#
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=viniciussk888&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussk888&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=viniciussk888.viniciussk888)
