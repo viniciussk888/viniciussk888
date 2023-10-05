@@ -4,7 +4,7 @@ I'm a fullstack software developer mainly coding in JavaScript and TypeScript. C
 </p>
 
 <p align="center"> When I'm not coding, you can find me playing video games or having fun with my daughters. </p>
-https://github-readme-stats.vercel.app/api?username=viniciussk888&count_private=true&show_icons=true&include_all_commits=true
+
 ## _I'm ..._
 <a href="#ryanjorgeac-title">
  <img src="https://github-readme-stats.vercel.app/api?username=viniciussk888&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Vinicius Martins Github Stats" align="right"/>
