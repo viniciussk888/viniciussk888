@@ -1,6 +1,6 @@
 <h2 align="center">Hello! I'm Vinicius Martins 👋</h2>
 <p align="center">
-I'm a fullstack software developer mainly coding in JavaScript and TypeScript. Currently learning about Serverless, DevOps and Cloud Computing. I love exploring new technologies and combining them to solve real-life problems. Furthermore, I learn quickly and adapt easily.
+I'm a fullstack software developer mainly coding in JavaScript and TypeScript and using ReactJS, NodeJs and React Native. Currently learning about Serverless, DevOps and Cloud Computing. I love exploring new technologies and combining them to solve real-life problems. Furthermore, I learn quickly and adapt easily.
 </p>
 
 <p align="center"> When I'm not coding, you can find me playing video games or having fun with my daughters. </p>
