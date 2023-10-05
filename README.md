@@ -38,9 +38,9 @@ I'm a fullstack software developer mainly coding in JavaScript and TypeScript. C
     </td>
      <td align="center" width="96">
       <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" width="48" height="48" alt="Node"/>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJs"/>
       </a>
-      <br>Node
+      <br>NodeJs
     </td>
     <td align="center" width="96">
       <a>
