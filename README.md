@@ -92,9 +92,9 @@ I'm a fullstack software developer mainly coding in JavaScript and TypeScript an
     </td>
    <td align="center" width="96">
       <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+       <img src="https://cdn.worldvectorlogo.com/logos/servicenow-2.svg" width="48" height="48" alt="Service Now"/>
       </a>
-      <br>Git
+      <br>Service Now
     </td>
   </tr>
 </table>
