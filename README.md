@@ -18,7 +18,7 @@
 ### 🚀 Sobre Mim
 
 - 🎓 Graduando em **Sistemas de Informação** pela Unibalsas.
-- 💼 Atualmente focado em **ServiceNow Development** (ITSM, CSM, Scripting, IntegrationHub).
+- 💼 Experiência em **ServiceNow Development** (ITSM, CSM, Scripting, IntegrationHub).
 - 🛠️ Experiência sólida com **ReactJS, Node.js e React Native**.
 - ☁️ Explorando ativamente **AWS, Serverless e DevOps**.
 - 🛹 Nas horas vagas: Gamer, pai de duas meninas e ex-skatista.
@@ -70,12 +70,5 @@ ServiceNow    (Updating...)   ██████░░░░░░░░░░�
 <a href="https://www.linkedin.com/in/avinicius-martins/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:seu-email@exemplo.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-</p>
 
-<div align="center">
-<p><b>Visitantes</b></p>
-<img src="https://www.google.com/search?q=https://profile-counter.glitch.me/viniciussk888/count.svg" alt="Visitor Count" />
-</div>
+E-mail: vinicius.cross07@gmail.com
