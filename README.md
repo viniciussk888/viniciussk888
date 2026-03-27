@@ -1,141 +1,81 @@
-<h2 align="center">Hello! I'm Vinicius Martins 👋</h2>
+<h2 align="center">Olá! Eu sou o Vinicius Martins 👋</h2>
+
 <p align="center">
-I'm a fullstack software developer mainly coding in JavaScript and TypeScript and using ReactJS, NodeJs and React Native. Currently learning about Serverless, DevOps and Cloud Computing. I love exploring new technologies and combining them to solve real-life problems. Furthermore, I learn quickly and adapt easily.
+  <strong>Software Developer | ServiceNow Specialist | Fullstack Enthusiast</strong>
 </p>
 
-<p align="center"> When I'm not coding, you can find me playing video games or having fun with my daughters. </p>
+<p align="center">
+  Engenheiro de Software com foco em soluções escaláveis e automação de processos. Atualmente, atuo como desenvolvedor na <strong>Grupo Boticário</strong>, transformando desafios de negócios em experiências digitais eficientes através da infraestrutura AWS, Service Now e do ecossistema JavaScript/TypeScript.
+</p>
 
-## _I'm ..._
-<a href="#ryanjorgeac-title">
- <img src="https://github-readme-stats.vercel.app/api?username=viniciussk888&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Vinicius Martins Github Stats" align="right"/>
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Stack-JavaScript%20%7C%20TypeScript%20%7C%20ServiceNow-blue?style=flat-square" alt="Stacks">
+  <img src="https://img.shields.io/github/stars/viniciussk888?style=flat-square&color=yellow" alt="Stars">
+</p>
 
-- [Information Systems](https://unibalsas.edu.br/sistemas-de-informacao/) Student at [**Unibalsas**](https://unibalsas.edu.br/)
+---
 
-- 28 years old
+### 🚀 Sobre Mim
 
-- From Brazil
- 
->⚡ **Fun Fact: I was once a skateboarder**
+- 🎓 Graduando em **Sistemas de Informação** pela Unibalsas.
+- 💼 Atualmente focado em **ServiceNow Development** (ITSM, CSM, Scripting, IntegrationHub).
+- 🛠️ Experiência sólida com **ReactJS, Node.js e React Native**.
+- ☁️ Explorando ativamente **AWS, Serverless e DevOps**.
+- 🛹 Nas horas vagas: Gamer, pai de duas meninas e ex-skatista.
 
+---
 
+### 🛠️ Tecnologias e Ferramentas
 
-## _Favorite Technologies_
->Tools, languages and other things that I like and am confortable to work with
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-      </a>
-      <br>JavaScript
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js,ts,nodejs" /><br><b>Backend</b>
     </td>
-    <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
-      </a>
-      <br>TypeScript
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react,html,css" /><br><b>Frontend</b>
     </td>
-     <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJs"/>
-      </a>
-      <br>NodeJs
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker" /><br><b>Infra & DB</b>
     </td>
-    <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5"/>
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="ReactJS"/>
-      </a>
-      <br>ReactJS
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React Native"/>
-      </a>
-      <br>React Native
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
-      </a>
-      <br>Docker
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="48" alt="Ubuntu"/>
-      </a>
-      <br>Ubuntu
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-      </a>
-      <br>PostgreSQL
-    </td>
-       <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MONGODB"/>
-      </a>
-      <br>MongoDB
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-      </a>
-      <br>Git
-    </td>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.worldvectorlogo.com/logos/servicenow-2.svg" width="48" height="48" alt="Service Now"/>
-      </a>
-      <br>Service Now
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/service-now/sn-icons/main/icons/servicenow.svg" width="48" height="48" /><br><b>ServiceNow</b>
     </td>
   </tr>
 </table>
 
-## _New Technologies_
->Tools, languages and other things that I am currently learning
-<table>
-  <tr>
-   <td align="center" width="96">
-      <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="Serveless"/>
-      </a>
-      <br>Serveless
-    </td>
-   <td align="center" width="96">
-      <a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS"/>
-      </a>
-      <br>AWS
-    </td>
-  </tr>
-</table>
+---
 
-### Coding Activity
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript        1 hr 49 mins    ████████████▓░░░░░░░░░░░░   50.28 %
-TypeScript        1 hr 24 mins    █████████▓░░░░░░░░░░░░░░░   38.96 %
-JSON              11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-```
-
-<!--END_SECTION:waka-->
-
-
-### Where you can find me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/vinicius-martins-115936178)
-
+### 📊 Estatísticas e Atividade
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniciussk888}/count.svg" /></p> 
-<br></div>
+  <a href="https://github.com/viniciussk888">
+    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussk888&show_icons=true&theme=transparent&title_color=3181F6&icon_color=3181F6&text_color=aaaaaa&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/viniciussk888">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussk888&layout=compact&theme=transparent&title_color=3181F6&text_color=aaaaaa&hide_border=true&langs_count=6" />
+  </a>
+</div>
 
+<br/>
+
+#### ⌨️ Atividade de Código (WakaTime)
+
+JavaScript    1 hr 49 mins    ████████████▓░░░░░░░░░░░░   50.28 %
+TypeScript    1 hr 24 mins    █████████▓░░░░░░░░░░░░░░░   38.96 %
+ServiceNow    (Updating...)   ██████░░░░░░░░░░░░░░░░░░░   In Work
+
+📫 Vamos nos conectar?
+<p align="left">
+<a href="https://www.linkedin.com/in/avinicius-martins/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:seu-email@exemplo.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+</a>
+</p>
+
+<div align="center">
+<p><b>Visitantes</b></p>
+<img src="https://www.google.com/search?q=https://profile-counter.glitch.me/viniciussk888/count.svg" alt="Visitor Count" />
+</div>
